@@ -1,20 +1,11 @@
 package com.mkp.toastui;
 
 import androidx.appcompat.app.AppCompatActivity;
-import androidx.constraintlayout.widget.ConstraintLayout;
 
 import android.content.Context;
 import android.os.Bundle;
-import android.view.Gravity;
-import android.view.LayoutInflater;
-import android.view.View;
-import android.widget.Toast;
 
-import com.google.android.material.snackbar.Snackbar;
-import com.google.android.material.textview.MaterialTextView;
-import com.pradeep.mkp.tostui.ToastUI;
-
-import java.util.ArrayList;
+import com.pradeep.mkp.toastuilib.ToastUI;
 
 public class MainActivity extends AppCompatActivity {
     int countitem = 0;

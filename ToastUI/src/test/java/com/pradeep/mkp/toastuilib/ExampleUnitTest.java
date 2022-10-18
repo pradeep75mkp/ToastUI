@@ -1,4 +1,4 @@
-package com.pradeep.mkp.tostui;
+package com.pradeep.mkp.toastuilib;
 
 import org.junit.Test;
 
